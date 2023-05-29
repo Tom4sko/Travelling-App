@@ -4,6 +4,9 @@ TravellingApp made by React Native + Expo
 # Start
 npx expo start --tunnel //Recommended
 
+# Info
+React Native is not supporting colours of shadows. I tried to make it as similar as possible to how I designed it.
+
 # Figma Design
 https://www.figma.com/file/yQykDzoTgWIfYhZiuNgFed/TravellingApp?type=design&node-id=0%3A1&t=i7Stoml21Rt6KVnG-1
 
